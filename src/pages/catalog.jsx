@@ -1,9 +1,10 @@
 import "../styles/catalog.css";
 
+
 const products = [
   { id: 1, name: "Goggles de natación", price: "$25", image: "/images/gafas.jpg" },
   { id: 2, name: "Traje de baño", price: "$40", image: "/images/traje.jpg" },
-  { id: 3, name: "Gorra de natación", price: "$15", image: "/images/gorro.jpg" },
+  { id: 3, name: "Gorra de natación", price: "$15", image: "/images/gorro.jpg" }
 ];
 
 function Catalog() {
